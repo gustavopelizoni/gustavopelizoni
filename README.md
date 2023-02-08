@@ -2,7 +2,6 @@
 ## I'm Gustavo Sebastião Pelizoni
 - I live in :brazil:, southeast :sunglasses:
 - I have been working at BildVitta CloudOps DevOps FinOps :computer:
-- I'm learning more about Ansible :sparkling_heart:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gustavosebastiaopelizoni/" target="_blank">
