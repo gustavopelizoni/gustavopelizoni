@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Gustavo Sebastião Pelizoni
 - I live in :brazil:, southeast :sunglasses:
-- I have been working at BildVitta CloudOps DevOps FinOps :computer:
+- I have been working at BildVitta SRE DevOps FinOps :computer:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gustavosebastiaopelizoni/" target="_blank">
