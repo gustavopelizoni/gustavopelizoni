@@ -50,13 +50,6 @@
 
 ---
 
-## 📌 Featured Projects & Open Source
-
-- ⚡ **[sre-workstation](https://github.com/gustavopelizoni/sre-workstation)**: Cross-distro Ansible automation designed to bootstrap and provision a complete SRE & Platform Engineering workstation from scratch in minutes.
-- 🤖 **AI & OpenCode Integration**: Building custom AI skills, specialized agents, and automated operational runbooks to accelerate incident triage and platform workflows.
-
----
-
 <div align="center">
 
   ### 📊 GitHub Metrics & Stats
